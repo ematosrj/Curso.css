@@ -1,0 +1,16 @@
+body {margin: 0;}
+
+.red {background-color: aqua;
+width: 100px;
+height: 100px;
+padding: 100px 0px 0px 100px;
+}
+
+.gray {background-color: #555;
+width: 200px;
+height: 300px;}
+
+.black {
+    background-color: chartreuse;
+    width: 200px;
+height: 200px;}
